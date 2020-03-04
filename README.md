@@ -1,5 +1,7 @@
 # Jogos estilo retrô.
-* Snake, Sinuca, Corrida...
+* Snake
+* Sinuca
+* Corrida
 
 #### IDE
 * [Pycharm](https://www.jetbrains.com/pycharm/download/#section=linux) - Pycharm
