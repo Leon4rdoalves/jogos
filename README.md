@@ -11,8 +11,7 @@
 * Random
 
 ## Contribuição
-Eu estou aprendendo e como um bom aprendiz, aceito quaisquer sugestões, dicas, correções e etc. 
-Contribua como achar melhor...
+* Sem restrições... Agradeço desde já pela ajuda... 
 
 ## Contato
 * Insta: [@ebony.prog](https://www.instagram.com/ebony_prog/)
