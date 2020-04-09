@@ -7,6 +7,7 @@
 * [Pycharm](https://www.jetbrains.com/pycharm/download/#section=linux) - Pycharm
 #### Bibliotéca não nativa
 * Tkinter
+* Pygame
 #### Bibliotéca nativa
 * Random
 
